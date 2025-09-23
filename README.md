@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy Alejandro Manuel Bouzas  
 
 💻 **Desarrollador Java Backend Junior**  
+
 Me destaco en el desarrollo de CRUD, API Rest escalables y mantenibles siguiendo patrones de diseño como DTO, DAO, principios SOLID, uso de Lombok para simplificar y 
 ganar legibilidad y Clean Code. 
 
