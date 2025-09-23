@@ -9,6 +9,9 @@ Conocimientos avanzados en SQL y en Testing QA.
 
 Siempre aprendiendo, adaptandome a nuevas tecnologias y mejorando mi codigo.  
 
+💻 **Desarrollador COBOL Mainframe en formacion**
+Dentro de terminal 3270. TSO / CICS en curso.  
+
 📫 **Contacto:**  
 - ✉️ Email: [alej.bouzas@gmail.com](mailto:alej.bouzas@gmail.com)  
 - 🔗 LinkedIn: [Alejandro Manuel Bouzas](https://www.linkedin.com/in/alejandro-manuel-b-a64133a4/)  
