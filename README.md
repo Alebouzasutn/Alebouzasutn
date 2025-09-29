@@ -1,6 +1,11 @@
-# ¡Hola! 👋 Soy Alejandro Manuel Bouzas  
+# ¡Hola! Hi 👋 Soy Alejandro Manuel Bouzas  
 
-💻 **Desarrollador Java Backend Junior**  
+💻 **Developer Java Backend Junior**  
+I specialize in developing CRUD applications (monolithic architectures and microservices) and building scalable, maintainable REST APIs by applying design patterns, SOLID principles, DTO, DAO, Lombok, and Clean Code practices.
+
+I have advanced knowledge in SQL and QA Testing, and I am constantly learning, adapting to new technologies, and improving my code.
+
+💻 **Currently training as a COBOL Mainframe Developer using 3270 terminal (TSO / ISPF/ CICS and more in progress)**.
 
 Me destaco en el desarrollo de CRUD (arquitecturas monoliticos, micro servicios) + API Rest escalables y mantenibles siguiendo patrones de diseño, principios SOLID, DTO, DAO, uso de LOMBOK para simplificar y 
 ganar legibilidad y Clean Code. 
