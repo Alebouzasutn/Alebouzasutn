@@ -1,4 +1,4 @@
-# ¡Hola! Hi 👋 Soy Alejandro Manuel Bouzas  
+# ¡Hola! Hi 👋 I`m Alejandro Manuel Bouzas  
 
 💻 **Junior Java Developer**  
 I specialize in developing CRUD applications (monolithic architectures and microservices) and building scalable, maintainable REST APIs by applying design patterns, SOLID principles, DTO, DAO, Lombok, and Clean Code practices.
