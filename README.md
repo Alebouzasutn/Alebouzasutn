@@ -1,7 +1,7 @@
 # ¡Hola! Hi 👋 I`m Alejandro Manuel Bouzas  
 
 💻 **Junior Java Developer**  
-I specialize in developing CRUD applications (monolithic architectures and microservices) and building scalable, maintainable REST / Feign APIs by applying design patterns, SOLID principles, DTO, DAO, Lombok, and Clean Code practices.
+I specialize in developing Java applications (monolithic architectures and microservices) and building scalable, maintainable REST / Feign APIs by applying design patterns, SOLID principles, DTO, DAO, Lombok, and Clean Code practices.
 
 I have advanced knowledge in SQL and QA Testing, and I am constantly learning, adapting to new technologies, and improving my code.
 
