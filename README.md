@@ -8,7 +8,7 @@ Consultas SQL avanzadas y conocimientos en Testing QA.
 
 Siempre aprendiendo, adaptandome a nuevas tecnologias y mejorando mi codigo.  
 
-Herramientas: Docker, AWS EC2.
+Herramientas: Docker, Postman, Swagger, AWS EC2.
 
 
 📫 **Contacto:**  
