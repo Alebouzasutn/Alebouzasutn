@@ -1,21 +1,15 @@
 # ¡Hola! Hi 👋 I`m Alejandro Manuel Bouzas  
 
 💻 **Junior Java Developer**  
-I specialize in developing Java applications (monolithic architectures and microservices) and building scalable, maintainable REST / Feign APIs by applying design patterns, SOLID principles, DTO, DAO, Lombok, and Clean Code practices.
 
-I have advanced knowledge in SQL and QA Testing, and I am constantly learning, adapting to new technologies, and improving my code.
+Me destaco en el desarrollo de aplicaciones Java, API REST escalables y mantenibles aplicando patrones de diseño, principios SOLID y Clean Code.
 
-💻 **Currently training as a COBOL Mainframe Developer using 3270 terminal (TSO / ISPF/ CICS and more in progress)**.
-
-Me destaco en el desarrollo de CRUD (arquitecturas monoliticos, micro servicios) + API Rest escalables y mantenibles siguiendo patrones de diseño, principios SOLID, DTO, DAO, uso de LOMBOK para simplificar y 
-ganar legibilidad y Clean Code. 
-
-Conocimientos avanzados en SQL y en Testing QA.
+Consultas SQL avanzadas y conocimientos en Testing QA.
 
 Siempre aprendiendo, adaptandome a nuevas tecnologias y mejorando mi codigo.  
 
-💻 **Desarrollador COBOL Mainframe en formacion**
-Dentro de terminal 3270. TSO / CICS en curso.  
+Herramientas: Docker, AWS EC2.
+
 
 📫 **Contacto:**  
 - ✉️ Email: [alej.bouzas@gmail.com](mailto:alej.bouzas@gmail.com)  
